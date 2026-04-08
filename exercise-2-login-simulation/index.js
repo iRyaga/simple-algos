@@ -1,5 +1,5 @@
-let username = "ayoubyou";
-let password = "123456789123";
+const username = "ayoubyou";
+const password = "123456789123";
 let attempts = 0;
 let isLoggedIn = false;
 while(!isLoggedIn && attempts < 3){
